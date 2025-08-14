@@ -8,7 +8,6 @@
 - 🐱 [BongoCat](https://github.com/ayangweb/BongoCat)  
   A cross-platform interactive desktop application featuring the iconic Bongo Cat.
 -->
-todo
 
 ## 📊 GitHub Stats
 
